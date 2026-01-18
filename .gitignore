@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pypicgo/
+.trae/
+*.png
+.idea/
+.vscode/
+venv/
